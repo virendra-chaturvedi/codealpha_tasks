@@ -8,6 +8,7 @@ This Repository contains my all the tasks completed during my Web Development In
 
 ## Projects:
 - Task 1: Age Calculator
+- Task 2: To-Do List
 
 ## Technology Used:
 - HTML
