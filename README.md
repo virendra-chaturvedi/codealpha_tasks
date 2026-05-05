@@ -9,11 +9,13 @@ This Repository contains my all the tasks completed during my Web Development In
 ## Projects:
 - Task 1: Age Calculator
 - Task 2: To-Do List
+- task 3: Music Player
 
 ## Technology Used:
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ## Objective
 To build a strong foundation in web development and gain hands-on experience by working on real-world tasks.
