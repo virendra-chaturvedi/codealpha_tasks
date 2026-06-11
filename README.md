@@ -4,7 +4,7 @@ This Repository contains my all the tasks completed during my Web Development In
 ## Internship Details:
 - Role : Web Development Intern
 - Organization : CodeAlpha
-- Duration : March 2026 (1 Month)
+- Duration : 5th March 2026 - 5th June 2026 (3 Month)
 
 ## Projects:
 - Task 1: Age Calculator
