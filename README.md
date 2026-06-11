@@ -10,6 +10,7 @@ This Repository contains my all the tasks completed during my Web Development In
 - Task 1: Age Calculator
 - Task 2: To-Do List
 - task 3: Music Player
+- task 4: Social Media Application 
 
 ## Technology Used:
 - HTML
